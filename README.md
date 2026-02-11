@@ -8,7 +8,6 @@
   <img src="https://komarev.com/ghpvc/?username=Niku6352&label=Profile%20Views&color=0e75b6&style=flat" />
 </p>
 
----
 
 ## 👩‍💻 About Me
 
@@ -17,9 +16,7 @@ in software development and intelligent systems.
 
 I specialize in **Python development**, **machine learning**, and **computer vision**,  
 with a focus on building practical, efficient, and scalable software solutions.
-
 ---
-
 ## 🌐 Socials
 
 <p align="left">
@@ -27,8 +24,6 @@ with a focus on building practical, efficient, and scalable software solutions.
     <img src="https://img.shields.io/badge/GitHub-Niku6352-000000?style=for-the-badge&logo=github"/>
   </a>
 </p>
-
----
 
 ## 🧰 Tech Stack
 
@@ -40,10 +35,7 @@ with a focus on building practical, efficient, and scalable software solutions.
 <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy"/>
 <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas"/>
 </p>
-
----
-
-## 📊 GitHub Stats
+## 📊 GitHub Status
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Niku6352&show_icons=true&theme=tokyonight" height="165"/>
