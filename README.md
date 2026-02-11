@@ -36,8 +36,10 @@ with a focus on building practical, efficient, and scalable software solutions.
 <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas"/>
 </p>
 ## 📊 GitHub Status
+## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Niku6352&show_icons=true&theme=tokyonight" height="165"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Niku6352&theme=tokyonight" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Niku@6352&show_icons=true&theme=tokyonight" height="165"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Niku@6352&theme=tokyonight" height="165"/>
 </p>
+
