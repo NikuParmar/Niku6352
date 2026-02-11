@@ -1,24 +1,16 @@
-# Hi, I'm Nikita Parmar 👋
+Hi 👋 I'm Nikita Parmar
 
-🎓 Master of Engineering (Software Engineering)  
-💻 Software Engineer | ☁️ Cloud | 🗄️ Databases 
+🎓 M.E. in Software Engineering  
+💻 Interested in Software Development, AI & Cloud  
+🧠 Working on Machine Learning and Computer Vision projects  
+🚀 Goal: Build impactful software and grow as an engineer  
 
-I am a Software Engineering postgraduate actively building my career in the tech industry.  
-I work on **software development, cloud platforms, database systems, and secure applications** through hands-on projects.
+🛠 Skills:
+- Python
+- Machine Learning
+- OpenCV
+- SQL
+- Cloud Basics (AWS / GCP)
 
-## 🔧 Technical Skills
-- **Languages:** Python, SQL  
-- **Databases:** MySQL, PostgreSQL  
-- **Cloud:** AWS, Azure, Google Cloud (Basics)  
-- **Tools:** Git, GitHub, Linux  
-
-## 📌 Featured Project
-🔹 **Face Recognition Based Attendance Monitoring System**  
-- Built using Python and Computer Vision  
-- Automates attendance tracking using facial recognition  
-- Focus on accuracy and automation  
-
-## 📫 Contact
-- 📧 Email:parmarnikita9898@gmail.com
-
-⭐ Actively learning and building real-world projects.
+📫 Connect with me:
+- GitHub: github.com/NikitaParmar
