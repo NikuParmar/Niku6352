@@ -15,9 +15,6 @@ My work focuses on **Python-based development**, **machine learning**, and
 **computer vision**, with an emphasis on solving real-world problems through clean  
 and efficient code.
 
-I am actively seeking **entry-level software engineering opportunities** where I can  
-learn, contribute, and grow professionally.
-
 ---
 
 ## 🔗 Connect With Me
